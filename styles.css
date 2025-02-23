@@ -2,11 +2,6 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('signatures.png'); /* Ensure this image exists in your repo */
-    background-size: contain; /* Keeps the full image visible */
-    background-position: center;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
     display: flex;
     justify-content: center; /* Centers content horizontally */
     align-items: center; /* Centers content vertically */
